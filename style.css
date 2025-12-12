@@ -41,3 +41,55 @@
     top: -41px;
     left: 31px;
 }
+
+#building-2 {
+    background: white;
+    height: 60px;
+    width: 100px;
+    position: absolute;
+    top: 480px;
+    left: 250px;
+}
+#roof-2 {
+    border-bottom: 50px solid burlywood;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    position: relative;
+    bottom: 50px;
+}
+#door-2 {
+    width: 40px;
+    position: relative;
+    top: -41px;
+    left: 31px;
+}
+
+#building-3 {
+    background: white;
+    height: 60px;
+    width: 100px;
+    position: absolute;
+    top: 440px;
+    left: 500px;
+}
+#roof-3 {
+    border-bottom: 50px solid burlywood;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    position: relative;
+    bottom: 50px;
+}
+#door-3 {
+    width: 40px;
+    position: relative;
+    top: -41px;
+    left: 31px;
+}
+
+#pool-1 {
+    width:130px;
+    position: absolute;
+    top:280px;
+    left:250px;
+}
+}
