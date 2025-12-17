@@ -5,7 +5,7 @@
   margin: 0%;
   height: 100%;
   width: 100%;
-
+  
  }
 
 #sky {
@@ -25,8 +25,9 @@
     height: 60px;
     width: 100px;
     position: absolute;
-    top: 410px;
+    top: 610px;
     left: 100px;
+    z-index: 10;
 }
 #roof-1 {
     border-bottom: 50px solid burlywood;
@@ -47,7 +48,7 @@
     height: 60px;
     width: 100px;
     position: absolute;
-    top: 480px;
+    top: 570px;
     left: 250px;
 }
 #roof-2 {
@@ -69,8 +70,9 @@
     height: 60px;
     width: 100px;
     position: absolute;
-    top: 440px;
+    top: 600px;
     left: 500px;
+    z-index: 10;
 }
 #roof-3 {
     border-bottom: 50px solid burlywood;
@@ -86,10 +88,63 @@
     left: 31px;
 }
 
-#cloud {
+#cloud-1 {
     font-size: 150px;
     position: absolute;
     top: 80px;
     left: 360px;
 }
+
+#cloud-2 {
+    font-size: 150px;
+    position: absolute;
+    top: 150px;
+    left: 80px;
+}
+
+#buildings {
+    width: 800px;
+    position: absolute;
+    top: 250px;
+}
+
+#plane {
+    width: 100px;
+    position: absolute;
+    top: 120px;
+    left: 250px;
+}
+
+#bench-1 {
+    width: 50px;
+    position: absolute;
+    top: 515px;
+    left: 60px;
+}
+
+#bench-2 {
+    width: 50px;
+    position: absolute;
+    top: 515px;
+    left: 220px;
+}
+
+#bench-3 {
+    width: 50px;
+    position: absolute;
+    top: 515px;
+    left: 380px;
+}
+
+#bench-4 {
+    width: 50px;
+    position: absolute;
+    top: 515px;
+    left: 540px;
+}
+
+#water {
+    width: 800px;
+    position: absolute;
+    top: 355px;
 }
